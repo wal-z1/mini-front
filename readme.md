@@ -1,8 +1,4 @@
-# JS Learning Journey
-
-A personal repository of casual practice projects while learning JavaScript, HTML, and CSS.
-
-This is not a portfolio. Just raw code, tests, and ideas as I learn and experiment.
+A chaotic mess of random JavaScript, HTML, and CSS experiments. Probably broken. Definitely messy.
 
 ## Structure
 
@@ -14,6 +10,3 @@ Basic static UI things
 
 Small JavaScript-based projects to practice.
 
-## Notes
-
-Some folders may be incomplete or messy ... this repo is part of my ongoing learning process.
